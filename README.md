@@ -39,6 +39,10 @@ This allows users to ask questions like:
 
 ## 🏗️ Architecture Flow
 
+<p align="center">
+  <img src="architecture.png" alt="YouTube RAG Architecture" height="420"/>
+</p>
+
 
 
 
